@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/sblenkhorne/Downloads/thirskOS  RELEASE V1.0.0/thirskOS_flutter/build/flutter_youtube/intermediates/res/merged/release/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/sblenkhorne/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0-beta01.aar/83c945f6b6178ebc34157a6518c8011b/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/sblenkhorne/Downloads/thirskOS  RELEASE V1.0.0/thirskOS_flutter/build/flutter_youtube/intermediates/res/merged/release/drawable-v21/abc_list_divider_material.xml",
+        "source": "/Users/sblenkhorne/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0-beta01.aar/83c945f6b6178ebc34157a6518c8011b/res/drawable-v21/abc_list_divider_material.xml"
+    },
+    {
+        "merged": "/Users/sblenkhorne/Downloads/thirskOS  RELEASE V1.0.0/thirskOS_flutter/build/flutter_youtube/intermediates/res/merged/release/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/sblenkhorne/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0-beta01.aar/83c945f6b6178ebc34157a6518c8011b/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/sblenkhorne/Downloads/thirskOS  RELEASE V1.0.0/thirskOS_flutter/build/flutter_youtube/intermediates/res/merged/release/drawable-v21/notification_action_background.xml",
+        "source": "/Users/sblenkhorne/.gradle/caches/transforms-1/files-1.1/core-1.0.0-beta01.aar/ae86008e870ae0c344620a3df09fa1d0/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/sblenkhorne/Downloads/thirskOS  RELEASE V1.0.0/thirskOS_flutter/build/flutter_youtube/intermediates/res/merged/release/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/sblenkhorne/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0-beta01.aar/83c945f6b6178ebc34157a6518c8011b/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/sblenkhorne/Downloads/thirskOS  RELEASE V1.0.0/thirskOS_flutter/build/flutter_youtube/intermediates/res/merged/release/drawable-v21/abc_dialog_material_background.xml",
+        "source": "/Users/sblenkhorne/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0-beta01.aar/83c945f6b6178ebc34157a6518c8011b/res/drawable-v21/abc_dialog_material_background.xml"
+    }
+]

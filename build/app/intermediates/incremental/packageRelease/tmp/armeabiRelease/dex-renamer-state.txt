@@ -1,0 +1,4 @@
+#Tue Jul 30 23:35:17 MDT 2019
+base.0=/Users/chrissamra/Documents/thirskOS  RELEASE V1.2/thirskOS_flutter/build/app/intermediates/transforms/dexMerger/release/0
+path.0=classes.dex
+renamed.0=classes.dex
