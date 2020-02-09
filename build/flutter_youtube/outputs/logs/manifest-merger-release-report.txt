@@ -1,0 +1,27 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/sblenkhorne/Applications/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_youtube-1.1.6/android/src/main/AndroidManifest.xml:2:1-12:12
+INJECTED from /Users/sblenkhorne/Applications/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_youtube-1.1.6/android/src/main/AndroidManifest.xml:2:1-12:12
+INJECTED from /Users/sblenkhorne/Applications/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_youtube-1.1.6/android/src/main/AndroidManifest.xml:2:1-12:12
+	package
+		ADDED from /Users/sblenkhorne/Applications/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_youtube-1.1.6/android/src/main/AndroidManifest.xml:3:5-53
+		INJECTED from /Users/sblenkhorne/Applications/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_youtube-1.1.6/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/sblenkhorne/Applications/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_youtube-1.1.6/android/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/sblenkhorne/Applications/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_youtube-1.1.6/android/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/sblenkhorne/Applications/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_youtube-1.1.6/android/src/main/AndroidManifest.xml:5:5-10:19
+activity#io.github.ponnamkarthik.flutteryoutube.PlayerActivity
+ADDED from /Users/sblenkhorne/Applications/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_youtube-1.1.6/android/src/main/AndroidManifest.xml:6:9-9:20
+	android:configChanges
+		ADDED from /Users/sblenkhorne/Applications/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_youtube-1.1.6/android/src/main/AndroidManifest.xml:8:17-89
+	android:name
+		ADDED from /Users/sblenkhorne/Applications/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_youtube-1.1.6/android/src/main/AndroidManifest.xml:7:17-47
+uses-sdk
+INJECTED from /Users/sblenkhorne/Applications/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_youtube-1.1.6/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/sblenkhorne/Applications/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_youtube-1.1.6/android/src/main/AndroidManifest.xml
+INJECTED from /Users/sblenkhorne/Applications/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_youtube-1.1.6/android/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/sblenkhorne/Applications/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_youtube-1.1.6/android/src/main/AndroidManifest.xml
+		ADDED from /Users/sblenkhorne/Applications/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_youtube-1.1.6/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/sblenkhorne/Applications/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_youtube-1.1.6/android/src/main/AndroidManifest.xml

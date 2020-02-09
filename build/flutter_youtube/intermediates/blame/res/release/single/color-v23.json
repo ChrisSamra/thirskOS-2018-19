@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/sblenkhorne/Downloads/thirskOS  RELEASE V1.0.0/thirskOS_flutter/build/flutter_youtube/intermediates/res/merged/release/color-v23/abc_tint_switch_track.xml",
+        "source": "/Users/sblenkhorne/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0-beta01.aar/83c945f6b6178ebc34157a6518c8011b/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/sblenkhorne/Downloads/thirskOS  RELEASE V1.0.0/thirskOS_flutter/build/flutter_youtube/intermediates/res/merged/release/color-v23/abc_tint_edittext.xml",
+        "source": "/Users/sblenkhorne/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0-beta01.aar/83c945f6b6178ebc34157a6518c8011b/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/sblenkhorne/Downloads/thirskOS  RELEASE V1.0.0/thirskOS_flutter/build/flutter_youtube/intermediates/res/merged/release/color-v23/abc_tint_spinner.xml",
+        "source": "/Users/sblenkhorne/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0-beta01.aar/83c945f6b6178ebc34157a6518c8011b/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/sblenkhorne/Downloads/thirskOS  RELEASE V1.0.0/thirskOS_flutter/build/flutter_youtube/intermediates/res/merged/release/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/Users/sblenkhorne/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0-beta01.aar/83c945f6b6178ebc34157a6518c8011b/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/sblenkhorne/Downloads/thirskOS  RELEASE V1.0.0/thirskOS_flutter/build/flutter_youtube/intermediates/res/merged/release/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/sblenkhorne/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0-beta01.aar/83c945f6b6178ebc34157a6518c8011b/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/sblenkhorne/Downloads/thirskOS  RELEASE V1.0.0/thirskOS_flutter/build/flutter_youtube/intermediates/res/merged/release/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/Users/sblenkhorne/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0-beta01.aar/83c945f6b6178ebc34157a6518c8011b/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/sblenkhorne/Downloads/thirskOS  RELEASE V1.0.0/thirskOS_flutter/build/flutter_youtube/intermediates/res/merged/release/color-v23/abc_tint_default.xml",
+        "source": "/Users/sblenkhorne/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0-beta01.aar/83c945f6b6178ebc34157a6518c8011b/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/sblenkhorne/Downloads/thirskOS  RELEASE V1.0.0/thirskOS_flutter/build/flutter_youtube/intermediates/res/merged/release/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/Users/sblenkhorne/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0-beta01.aar/83c945f6b6178ebc34157a6518c8011b/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/sblenkhorne/Downloads/thirskOS  RELEASE V1.0.0/thirskOS_flutter/build/flutter_youtube/intermediates/res/merged/release/color-v23/abc_color_highlight_material.xml",
+        "source": "/Users/sblenkhorne/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0-beta01.aar/83c945f6b6178ebc34157a6518c8011b/res/color-v23/abc_color_highlight_material.xml"
+    }
+]
